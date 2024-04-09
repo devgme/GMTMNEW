@@ -67,7 +67,7 @@ typography
 @import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900");
 :root {
   --body-bg-rgb:	236, 240, 250;
-  --primary-rgb:	1, 98, 232;
+  --primary-rgb:	236, 28, 36;
   --secondary-rgb:	95, 109, 136;
   --warning-rgb:	251, 188, 11;
   --info-rgb:	0, 185, 255;
@@ -79,6 +79,7 @@ typography
   --pink-rgb:	241, 0, 117;
   --teal-rgb:	0, 204, 204;
   --purple-rgb:	72, 0, 201;
+  --blue-rgb:	1, 98, 232;
   --default-body-bg-color:	rgb(var(--body-bg-rgb));
   --primary-color:	rgb(var(--primary-rgb));
   --primary-border:	rgb(var(--primary-rgb));
